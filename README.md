@@ -1,5 +1,5 @@
 # APK Refactor
-## Capability
+## Capabilities
 <ul>
     <li>Google API Key Vulnerability Scanning</li>
     <li>Firebase Database Scanning</li>
