@@ -1,5 +1,4 @@
 # APK Refactor
-========================
 ## Capability
 <ul>
     <li>Google API Key Vulnerability Scanning</li>
